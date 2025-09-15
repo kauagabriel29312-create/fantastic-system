@@ -1,5 +1,4 @@
-print("Olá, DevOps!")
-def mensagem():
-    print("Olá, DevOps!")
+def mensagem(nome):
+    print(f"Olá, {nome}! Bem-vindo ao DevOps.")
 
-mensagem()
+mensagem("Desenvolvedor")
