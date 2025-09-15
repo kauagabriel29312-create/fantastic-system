@@ -1,5 +1,6 @@
 import subprocess
 
+
 def test_mensagem_com_nome():
     # Simula o usuário digitando "Kauã"
     resultado = subprocess.run(
