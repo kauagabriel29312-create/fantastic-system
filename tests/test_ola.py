@@ -21,3 +21,5 @@ def test_mensagem_sem_nome():
         text=True
     )
     assert "Olá, Visitante! Bem-vindo ao DevOps." in resultado.stdout
+
+# <-- linha em branco aqui
