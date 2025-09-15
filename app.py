@@ -5,3 +5,5 @@ def saudacao(kaua):
 if __name__ == "__main__":
     usuario = input("Digite seu nome: ")
     print(saudacao(usuario))
+
+# <-- linha em branco aqui (pressione Enter
